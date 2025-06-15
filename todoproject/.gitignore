@@ -4,4 +4,5 @@ media/
 # Ignore environment variable file
 .env
 
-env
+env/
+__pycache__/
