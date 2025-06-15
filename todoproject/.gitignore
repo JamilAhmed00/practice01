@@ -3,3 +3,5 @@ media/
 
 # Ignore environment variable file
 .env
+
+env
