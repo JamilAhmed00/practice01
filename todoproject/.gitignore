@@ -1,8 +1,0 @@
-# Ignore media files (uploads)
-media/
-
-# Ignore environment variable file
-.env
-
-env/
-__pycache__/

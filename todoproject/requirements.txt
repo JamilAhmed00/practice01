@@ -1,6 +1,0 @@
-django
-djangorestframework
-drf-yasg
-django-environ
-gunicorn
-whitenoise
